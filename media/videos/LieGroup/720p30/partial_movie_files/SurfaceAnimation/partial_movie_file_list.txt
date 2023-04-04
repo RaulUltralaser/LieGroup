@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/SurfaceAnimation/2931085594_3340778655_223132457.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/SurfaceAnimation/2180959675_3299238152_403019332.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/SurfaceAnimation/2318177580_345352296_769275805.mp4'
