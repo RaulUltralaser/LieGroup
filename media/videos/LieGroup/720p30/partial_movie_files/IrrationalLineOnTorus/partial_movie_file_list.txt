@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/2961789516_3551923161_223132457.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/2696402909_3837998516_880272886.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/2696402909_1622417121_2580481278.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/1756262995_3073779459_1383748016.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/1620936530_827572171_3667236752.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/2623816040_3299238152_2990486891.mp4'
+file 'file:/home/raul/Documentos/Doctorado/LieGroup/media/videos/LieGroup/720p30/partial_movie_files/IrrationalLineOnTorus/3796093649_2292429055_689065801.mp4'
